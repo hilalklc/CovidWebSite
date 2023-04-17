@@ -32,7 +32,7 @@ this project work with 3000 port so
 # testing
 
 You can test it by sending a request to this url, as a result, it will return you instant time.
-http://localhost:<5000>/api/get
+http://localhost:<3000>/api/get
 
 ## Contributing
 
